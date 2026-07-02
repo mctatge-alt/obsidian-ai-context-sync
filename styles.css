@@ -1,0 +1,34 @@
+/* AI Context Sync - Obsidian Plugin Styles */
+
+.ai-context-sync-status {
+	display: flex;
+	align-items: center;
+	gap: 4px;
+}
+
+.ai-context-sync-modal {
+	padding: 20px;
+}
+
+.ai-context-sync-modal h2 {
+	margin-bottom: 16px;
+}
+
+.ai-context-sync-target-list {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.ai-context-sync-target-item {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 8px 12px;
+	background: var(--background-secondary);
+	border-radius: 4px;
+}
+
+.ai-context-sync-target-item:hover {
+	background: var(--background-secondary-alt);
+}
