@@ -1,6 +1,6 @@
 # AI Context Sync for Obsidian
 
-[![GitHub release](https://img.shields.io/github/v/release/mitchelltatge/obsidian-ai-context-sync)](https://github.com/mitchelltatge/obsidian-ai-context-sync/releases)
+[![GitHub release](https://img.shields.io/github/v/release/mctatge/obsidian-ai-context-sync)](https://github.com/mctatge/obsidian-ai-context-sync/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **One source of truth for all your AI coding assistants.**
@@ -80,7 +80,7 @@ Write your AI context once in Obsidian, sync to all your tools automatically.
 
 ### Manual Installation
 
-1. Download the latest release from [GitHub Releases](https://github.com/mitchelltatge/obsidian-ai-context-sync/releases)
+1. Download the latest release from [GitHub Releases](https://github.com/mctatge/obsidian-ai-context-sync/releases)
 2. Extract to your vault's `.obsidian/plugins/ai-context-sync/` folder
 3. Reload Obsidian
 4. Enable the plugin in Settings → Community Plugins
@@ -88,7 +88,7 @@ Write your AI context once in Obsidian, sync to all your tools automatically.
 ### From Source
 
 ```bash
-git clone https://github.com/mitchelltatge/obsidian-ai-context-sync.git
+git clone https://github.com/mctatge/obsidian-ai-context-sync.git
 cd obsidian-ai-context-sync
 npm install
 npm run build
@@ -244,4 +244,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-**Found this useful?** Give it a ⭐ on [GitHub](https://github.com/mitchelltatge/obsidian-ai-context-sync)!
+**Built by [Mitch Tatge](https://github.com/mctatge).**
+
+**Found this useful?** Give it a ⭐ on [GitHub](https://github.com/mctatge/obsidian-ai-context-sync)!

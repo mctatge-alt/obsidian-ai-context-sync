@@ -5,7 +5,7 @@
 	"minAppVersion": "1.0.0",
 	"description": "Sync your AI context notes to CLAUDE.md, .cursor/rules/, AGENTS.md, and more. One source of truth for all your AI coding assistants.",
 	"author": "Mitchell Tatge",
-	"authorUrl": "https://github.com/mitchelltatge",
+	"authorUrl": "https://github.com/mctatge",
 	"fundingUrl": "",
 	"isDesktopOnly": true
 }
